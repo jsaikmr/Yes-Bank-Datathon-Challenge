@@ -146,11 +146,11 @@ From the above problem statement, it's clear that it will be a combination of bo
 * With the obtained bonds_aaa_cluster predicted values, build another model for regression.
 * Then predict the final bonds_aaa values.
 
-The solution is developed using *Python Jupyter Notebook*. It is classified into two models as follows:
+The solution is developed using *Python Jupyter Notebook*. It is classified into **two models** as follows:
 
-Model 1: It will be a multiclass classification model used to cluster and predict the bonds_aaa values for the test dataset.
+**Model 1:** It will be a multiclass classification model used to cluster and predict the bonds_aaa values for the test dataset.
 
-Model 2: It will be a regression model to predict the final bonds_aaa values with the above predicted clusters.
+**Model 2:** It will be a regression model to predict the final bonds_aaa values with the above predicted clusters.
 
 The solution code is divided into the following sections:
 
