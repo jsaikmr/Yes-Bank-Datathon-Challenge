@@ -174,3 +174,5 @@ The solution code is divided into the following sections:
     * Prepate the Submission file
 
 The complete solution can be accessed from [here](Yes_Bank_Datathon-Final_Submission.ipynb)
+
+Note: Datasets are not provided as the datasets are proprietary and do not comply with the License.
